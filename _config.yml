@@ -1,0 +1,23 @@
+name: experience
+favicon: null
+layout_spectrum: 0.8801871568430215
+typography_spectrum: 0.4857600782997906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8648510579951108
+  lightness: 0.0061584338545799255
+  saturation: 0.5615732192527503
+  rhythmicContrast: 0.7771314643323421
+purpose: []
